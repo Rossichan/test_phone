@@ -1,0 +1,6 @@
+id,age15,age26,age30,male,female,low,mid,high
+TOM,0,1,0,1,0,1,0,0
+Awareness,30,38,32,40,28,30,33,36
+Consideration,3,7,3,4,5,3,6,4
+Preference,1,0,1,0,1,2,0,0
+Primary use,2,0,1,1,1,2,1,1
